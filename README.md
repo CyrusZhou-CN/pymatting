@@ -3,9 +3,9 @@
 [![CI](https://img.shields.io/github/actions/workflow/status/pymatting/pymatting/.github/workflows/tests.yml?branch=master)](https://github.com/pymatting/pymatting/actions?query=workflow%3Atests)
 [![PyPI](https://img.shields.io/pypi/v/pymatting)](https://pypi.org/project/PyMatting/)
 [![JOSS](https://joss.theoj.org/papers/9766cab65bfbf07a70c8a835edd3875a/status.svg)](https://joss.theoj.org/papers/9766cab65bfbf07a70c8a835edd3875a)
-[![Gitter](https://img.shields.io/gitter/room/pymatting/pymatting)](https://gitter.im/pymatting/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Documentation](https://pymatting.github.io/docs_online.svg)](https://pymatting.github.io/)
 
-We introduce the PyMatting package for Python which implements various methods to solve the alpha matting problem.
+We introduce the PyMatting package for Python, which implements various methods to solve the alpha matting problem.
 
 - **Website and Documentation:** [https://pymatting.github.io/](https://pymatting.github.io)
 - **Benchmarks:**  [https://pymatting.github.io/benchmarks.html](https://pymatting.github.io/benchmarks.html)
